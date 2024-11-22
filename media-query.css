@@ -113,4 +113,52 @@
     }
 
     
+    .hero-msg span{
+
+        display: none;
+    }
+
+    .nav-address,.language,.nav-signin,.nav-orders{
+
+        display: none;
+    }
+
+    .panel{
+
+        justify-content: space-between;
+    }
+
+    .panel-options p:nth-child(1){
+
+        display: none;
+
+    }
+
+    .panel-options p:nth-child(2){
+
+        display: none;
+
+    }
+
+    .panel-options p:nth-child(6){
+
+        display: none;
+
+    }
+
+    .panel-options p:nth-child(10){
+
+        display: none;
+
+    }
+
+    .panel-options p:nth-child(9){
+
+        display: none;
+
+    }
+
+    .hero-section {
+        background-position: center;
+    }
 }
